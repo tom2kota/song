@@ -35,15 +35,10 @@ add to package.json
 npm run deploy
 ```
 
-create Action Script [HERE](https://github.com/tom2kota/song/actions) & modifycWorkflow file:
+create Action Script [HERE](https://github.com/tom2kota/song/actions) & modify Workflow file:
 
 ```
-# React-Redux App Build CI ... jobs: 1) greeting 2) deploying project to GitHub Pages after testing before
-# Some help: https://help.github.com/en/actions/reference/context-and-expression-syntax-for-github-actions
-# Generate token: https://github.com/settings/apps
-# Create secrets: https://github.com/tom2kota/increment-decrement/settings/secrets
-# Add path to package.json: ... "homepage": "https://tom2kota.github.io/increment",
-# Fix build path links in: ... public/index.html
+# React-Redux App Build CI ... jobs: 1) greeting 2) deploying project to GitHub Pages
 # ----------------------------------------------------------------------------------
 
 name: React_App_Deploy_to_gh-pages_CI
