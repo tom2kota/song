@@ -1,11 +1,11 @@
 # song
 React App - choose song from song list
 
----
-
 [DEMO](https://tom2kota.github.io/song/)
 
-Status of Action script:
+---
+
+Status of [Action](https://github.com/tom2kota/song/actions) script:
 
 ![React_App_Deploy_to_gh-pages_CI](https://github.com/tom2kota/song/workflows/React_App_Deploy_to_gh-pages_CI/badge.svg)
 
